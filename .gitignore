@@ -1,0 +1,22 @@
+# Entorno virtual de Python
+venv/
+*.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+.next/
+
+# Variables de entorno
+.env
+.env.local
+
+# Base de datos local
+db.sqlite3
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
